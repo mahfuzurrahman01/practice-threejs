@@ -47,10 +47,7 @@ This repository is a **learning project** for practicing React Three.js fundamen
 1. **Fork this repository** (click the Fork button at the top right)
 
 2. **Clone your fork**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/antigravity-test.git
-   cd antigravity-test
-   ```
+ 
 
 3. **Install dependencies**
    ```bash
